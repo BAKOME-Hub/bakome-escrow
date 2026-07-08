@@ -139,3 +139,12 @@ MIT License — Free to use for everyone.
 **Devnet Program ID:** [`FXkCNZaDgZ72vn51jek4jxo9VAFDU72XR2VZvGf4Mv8B`](https://explorer.solana.com/address/FXkCNZaDgZ72vn51jek4jxo9VAFDU72XR2VZvGf4Mv8B?cluster=devnet)
 
 ✅ Deployed on Solana Devnet — July 8, 2026
+
+## 💼 Hire Me
+- **Upwork**: https://www.upwork.com/freelancers/~01b0b420668352df97
+- **Smart Contracts**: Solana Devnet - `FXkCNZaDgZ72vn51jek4jxo9VAFDU72XR2VZvGf4Mv8B`
+- **Open Source**: 89+ projects on GitHub
+
+## ☕ Support My Work
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow)](https://buymeacoffee.com/bakomebandh)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-donate-blue)](https://ko-fi.com/merryglenns5i222l0ik)
