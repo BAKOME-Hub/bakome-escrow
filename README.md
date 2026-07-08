@@ -131,3 +131,11 @@ MIT License — Free to use for everyone.
 <p align="center">
   <sub>Built with 🦀 on ☀️ Solana</sub>
 </p>
+
+---
+
+## 🔗 Deployment
+
+**Devnet Program ID:** [`FXkCNZaDgZ72vn51jek4jxo9VAFDU72XR2VZvGf4Mv8B`](https://explorer.solana.com/address/FXkCNZaDgZ72vn51jek4jxo9VAFDU72XR2VZvGf4Mv8B?cluster=devnet)
+
+✅ Deployed on Solana Devnet — July 8, 2026
