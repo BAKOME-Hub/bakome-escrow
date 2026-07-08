@@ -1,0 +1,35 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔒 SECURITY.TXT — BAKOME-ESCROW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Contact: merryglann430@gmail.com
+Contact: https://github.com/BAKOME-hub
+Preferred-Languages: en, fr, pgl.
+
+Policy:
+We take security seriously. If you discover a vulnerability 
+in BAKOME-ESCROW, please report it responsibly.
+
+1. Email your findings to merryglann430@gmail.com
+2. Include detailed steps to reproduce
+3. Allow 72 hours for initial response
+4. We will work with you to resolve the issue
+
+Rewards:
+We offer recognition in our README and GitHub for valid 
+security reports. Financial rewards may be offered at our 
+discretion.
+
+Scope:
+- Smart contract vulnerabilities (Rust/Anchor)
+- Front-running attacks
+- Logic errors
+- Access control issues
+
+Out of Scope:
+- Social engineering
+- Physical attacks
+- DoS attacks on Solana network
+
+Thank you for helping keep BAKOME-ESCROW secure!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
