@@ -148,3 +148,11 @@ MIT License — Free to use for everyone.
 ## ☕ Support My Work
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow)](https://buymeacoffee.com/bakomebandh)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-donate-blue)](https://ko-fi.com/merryglenns5i222l0ik)
+
+---
+
+## 🎥 Demo Video
+
+[![Bakome Escrow Demo](assets/banner.png)](assets/demo.mp4)
+
+▶️ Click to watch the full demo
